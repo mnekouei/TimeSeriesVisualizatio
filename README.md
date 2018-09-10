@@ -35,9 +35,6 @@ according to the unemployment rate time series. unemployment increase each year 
 ![Alt text](https://github.com/sarasartoli/TimeSeriesVisualization/blob/master/August.png?raw=true)
 
 
-## Bonus: Sudden Drop Causes:
-* financial crisis in 2008
-* post-World War II economic downturn occurred in the early 1980s
 
 
 
